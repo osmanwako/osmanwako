@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Vehicles Management System**
 
-- 👨‍💻 All of my projects are available at [https://osmanwako.github.io/Portfoliomodaldetails/](https://osmanwako.github.io/Portfoliomodaldetails/)
+- 👨‍💻 All of my projects are available at [https://osmanwako.github.io/Portfoliomodaldetails/](https://osmanwako.github.io/Portfolio/)
 
 - 💬 Ask me about **Laravel,Angular ,Dotnet Core API,React,**
 
