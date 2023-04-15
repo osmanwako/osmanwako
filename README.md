@@ -1,7 +1,6 @@
-<p align="left"> <img src="osman.gif" alt="osmanwako" /> </p>
 <h1 align="center">Hi 👋, I'm Osman Wako</h1>
 <h3 align="center">A Seasoned Full-stack Developer</h3>
-<img align="center" src="" alt="osmanwako" />
+<img align="center" src="osman.gif" alt="osmanwako" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmanwako&label=Profile%20views&color=0e75b6&style=flat" alt="osmanwako" /> </p>
 
