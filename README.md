@@ -1,4 +1,4 @@
-
+<p align="left"> <img src="osman.gif" alt="osmanwako" /> </p>
 <h1 align="center">Hi 👋, I'm Osman Wako</h1>
 <h3 align="center">A Seasoned Full-stack Developer</h3>
 <img align="center" src="" alt="osmanwako" />
